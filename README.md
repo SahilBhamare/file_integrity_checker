@@ -8,7 +8,7 @@ A Python-based GUI tool to monitor file integrity by calculating and comparing S
 Features
 ✅ Detects:
 
-  -New files
+   * New files
 
   -Modified files
 
