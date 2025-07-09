@@ -8,13 +8,13 @@ A Python-based GUI tool to monitor file integrity by calculating and comparing S
 Features
 ✅ Detects:
 
-   * New files
+  * New files
 
-  -Modified files
+  * Modified files
 
-  -Deleted files
+  * Deleted files
 
-  -Unchanged files
+  * Unchanged files
 
 🧠 Uses SHA-256 hashing for secure file fingerprinting
 
